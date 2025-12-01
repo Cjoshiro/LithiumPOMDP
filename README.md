@@ -18,7 +18,7 @@ I spent a lot of my time coding in this research opportunity. All my coding cont
 * Implementing a full POMDP in Julia / POMDPs.jl
 * Structuring reusable model components and simulation logic
 * Working with belief updates and uncertainty modeling
-* Running experiments using solvers such as POMCPOW, DESPOT, or MCTS
+* Running experiments using solvers such as Partially Observable Monte Carlo Planning with Observation Widening (POMCPOW), Determinized Sparse Partially Observable Tree (DESPOT), or Monte  Carlo Tree Search (MCTS)
 
 ## Research
 My work culminated into a research poster presented at the Stanford Summer Undergraduate Research Fellowship Symposium. Check out the PNG here or view or download the [pdf](https://github.com/Cjoshiro/LithiumPOMDP/blob/main/StanfordResearchPoster.pdf)! Our work also resulted in a paper linked [here](https://arxiv.org/abs/2502.05690).
