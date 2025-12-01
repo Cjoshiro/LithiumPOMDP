@@ -11,7 +11,14 @@ I spent a lot of my time coding in this research opportunity. All my coding cont
  * [model.jl](https://github.com/mansurarief/LiSCPOMDP/blob/main/src/model.jl)
  * [policies.jl](https://github.com/mansurarief/LiSCPOMDP/blob/main/src/policies.jl)
  * [pomdp.jl](https://github.com/mansurarief/LiSCPOMDP/blob/main/src/pomdp.jl)
-   
+
+#### What This Code Demonstrates
+* Formulating real-world policy problems as Partially Observable Markov Decision Processes
+* Defining state, action, transition, observation, and reward models
+* Implementing a full POMDP in Julia / POMDPs.jl
+* Structuring reusable model components and simulation logic
+* Working with belief updates and uncertainty modeling
+* Running experiments using solvers such as POMCPOW, DESPOT, or MCTS
 
 ## Research
 My work culminated into a research poster presented at the Stanford Summer Undergraduate Research Fellowship Symposium. Check out the PNG here or view or download the [pdf](https://github.com/Cjoshiro/LithiumPOMDP/blob/main/StanfordResearchPoster.pdf)! Our work also resulted in a paper linked [here](https://arxiv.org/abs/2502.05690).
