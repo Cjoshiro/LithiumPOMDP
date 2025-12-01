@@ -5,3 +5,10 @@ In the summer of 2024, I was accepted into and participated in Stanford's Summer
 
 ## Contributions
 We formulated this problem as a Partially Observable Markov Decision Process (POMDP) to determine the optimal policy regarding lithium mining to accomplish sustainability and supply objectives. We used Julia to develop and design the POMDP model and I contributed to the development of the LiSCPOMDP (Lithium Supply Chain POMDP) Julia package. The package is published [here](https://github.com/mansurarief/LiSCPOMDP) on SISL's github. 
+
+
+## Research
+My work culminated into a research poster presented at the Stanford Summer Undergraduate Research Fellowship Symposium. Check out the PNG here or view or download the [pdf](https://github.com/Cjoshiro/LithiumPOMDP/blob/main/StanfordResearchPoster.pdf)! Our work also resulted in a paper linked [here](https://arxiv.org/abs/2502.05690).
+
+![Lithium POMDP Research Poster](assets/StanfordResearchPoster.png)
+
